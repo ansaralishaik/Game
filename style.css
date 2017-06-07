@@ -1,0 +1,11 @@
+body {
+  max-width: 980px;
+  margin: 0 auto;
+  border: solid 1px #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.rule-title {
+  margin: 2px 0px;
+}
