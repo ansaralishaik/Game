@@ -19,8 +19,8 @@ var obj = {"data": [
 }
 ]}
 var divId = document.getElementById("jsondata")
-/* for(var i=0;i<obj.data.length;i++)
+ for(var i=0;i<obj.data.length;i++)
 for(var keys in obj.data[i]){
  console.log(keys +"-->"+obj.data[i][keys]);
  divId.innerHTML = divId.innerHTML + "<br/>"+ keys +"-->"+obj.data[i][keys];
-} */
+} 
